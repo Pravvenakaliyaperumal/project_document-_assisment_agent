@@ -1,1 +1,31 @@
+FINANCE POLICY DOCUMENT – AML / KYC / TRADING CONTROLS
+
+1. Customer Identification Program (CIP)
+All clients must undergo identity verification prior to account activation.
+Required documents include government ID, proof of address, and a valid taxpayer identification number.
+
+2. Anti-Money Laundering (AML) Thresholds
+Any cash transaction exceeding $10,000 must be flagged and reported.
+Suspicious activity includes unusual wire transfers, rapid fund movement, and inconsistent trading behavior.
+
+3. Know Your Customer (KYC)
+Customers must be classified according to risk tiers:
+- Low risk: predictable account activity
+- Medium risk: foreign transactions
+- High risk: politically exposed persons (PEPs) or high volume transfers
+
+4. Trading Surveillance Rules
+The following market abuse patterns must be monitored:
+- Spoofing: placing orders with no intent to execute
+- Layering: placing multiple orders to manipulate prices
+- Insider Trading: trading based on non-public information
+
+5. Margin & Risk Controls
+Clients may not exceed approved margin limits.
+Any breach of margin requirements triggers an automatic liquidation workflow.
+
+6. Reporting Obligations
+All suspicious activity must be submitted to the compliance department within 24 hours.
+Regulated entities must file appropriate SAR (Suspicious Activity Reports).
+
 
